@@ -1,0 +1,1 @@
+import{u as a}from"./dYBcFXXL.js";import{aI as r,aF as o}from"#entry";const i=r(e=>{const t=a();if(t.loadAuth(),!t.token&&e.path!=="/login")return o("/");if(t.token&&e.path==="/login")return o("/")});export{i as default};
