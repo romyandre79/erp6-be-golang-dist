@@ -1,0 +1,1 @@
+import{u as a}from"./F2cpyflp.js";import{aO as r,aM as o}from"#entry";const i=r(e=>{const t=a();if(t.loadAuth(),!t.token&&e.path!=="/login")return o("/");if(t.token&&e.path==="/login")return o("/")});export{i as default};
