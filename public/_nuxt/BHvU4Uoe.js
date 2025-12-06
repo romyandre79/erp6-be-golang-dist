@@ -1,0 +1,1 @@
+import{u as e}from"./CoedoqIK.js";import{t as i,n as r}from"#entry";import"./DirAx5lA.js";import"./DQ_kd7ue.js";import"./CHaV0QvJ.js";import"./KobTAp13.js";/* empty css        */const d=i(o=>{const t=e();if(t.loadAuth(),!t.token&&o.path!=="/login")return r("/");if(t.token&&o.path==="/login")return r("/")});export{d as default};
