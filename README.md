@@ -3,9 +3,10 @@
 ## Setup
 1. Clone from branch Main
 2. configure .env
-3. run file as Operating system need   
+3. change value DB_AUTO_MIGRATE = true, for first running
+4. run Capella ERP v6 Back End Distribution file as Operating system need   
 
-if you use 
+if you use :
 1. OS Windows: capella-erp6-be-windows-amd64.exe
 2. Linux AMD/Intel x64: capella-erp6-be-linux-amd64
 3. Linux ARM x64: capella-erp6-be-linux-arm64
