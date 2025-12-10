@@ -1,0 +1,1 @@
+import{i as e}from"./CHIgUVhi.js";import{a8 as t,h as s,n}from"#entry";import{k as u}from"./obQP-YOd.js";function m(r,i){return e(r)?!1:Array.isArray(r)?r.some(o=>t(o,i)):t(r,i)}function c(r){const i=u({dir:s("ltr")});return n(()=>r?.value||i.dir?.value||"ltr")}export{m as i,c as u};
