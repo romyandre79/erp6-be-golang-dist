@@ -1,1 +1,0 @@
-import{u as r}from"./xnydp7Vm.js";import{aP as a,aM as o}from"#entry";/* empty css        */import"./KobTAp13.js";const p=a(e=>{const t=r();if(t.loadAuth(),!t.token&&e.path!=="/login")return o("/");if(t.token&&e.path==="/login")return o("/")});export{p as default};
